@@ -8,3 +8,8 @@ It automates the process of tuning hyperparameters, which can be tedious and tim
 ## Dataset Links
 
 
+## Clone the Repository
+```
+git clone https://github.com/MartinKalema/Hyperparameter-Tuning-GridSearchCV
+```
+
